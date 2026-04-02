@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shinden",
+    "pkg": "eu.kanade.tachiyomi.extension.pl.shinden",
+    "apk": "shinden-extension.apk",
+    "lang": "pl",
+    "code": 19,
+    "version": "1.4.19",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Shinden",
+        "id": "2262791651886915175",
+        "baseUrl": "https://shinden.pl"
+      }
+    ]
+  }
+]
