@@ -17,4 +17,905 @@
       }
     ]
   }
+  {
+    "name": "AllMovieLandProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.allmovielandprovider",
+    "apk": "allmovielandprovider-extension.apk",
+    "lang": "hi",
+    "code": 18,
+    "version": "1.0.18",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AllMovieLandProvider",
+        "id": "allmovielandprovider",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "AllWish",
+    "pkg": "eu.kanade.tachiyomi.extension.en.allwish",
+    "apk": "allwish-extension.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.0.3",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AllWish",
+        "id": "allwish",
+        "baseUrl": "https://all-wish.me"
+      }
+    ]
+  },
+  {
+    "name": "Anichi",
+    "pkg": "eu.kanade.tachiyomi.extension.en.anichi",
+    "apk": "anichi-extension.apk",
+    "lang": "en",
+    "code": 12,
+    "version": "1.0.12",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Anichi",
+        "id": "anichi",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Animeav1",
+    "pkg": "eu.kanade.tachiyomi.extension.mx.animeav1",
+    "apk": "animeav1-extension.apk",
+    "lang": "mx",
+    "code": 5,
+    "version": "1.0.5",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Animeav1",
+        "id": "animeav1",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "AnimeCloud",
+    "pkg": "eu.kanade.tachiyomi.extension.de.animecloud",
+    "apk": "animecloud-extension.apk",
+    "lang": "de",
+    "code": 6,
+    "version": "1.0.6",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AnimeCloud",
+        "id": "animecloud",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "AnimeDekhoProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.animedekhoprovider",
+    "apk": "animedekhoprovider-extension.apk",
+    "lang": "hi",
+    "code": 61,
+    "version": "1.0.61",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AnimeDekhoProvider",
+        "id": "animedekhoprovider",
+        "baseUrl": "https://animedekho.app"
+      }
+    ]
+  },
+  {
+    "name": "AnimeKai",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animekai",
+    "apk": "animekai-extension.apk",
+    "lang": "en",
+    "code": 64,
+    "version": "1.0.64",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AnimeKai",
+        "id": "animekai",
+        "baseUrl": "https://animekai.to"
+      }
+    ]
+  },
+  {
+    "name": "Animekhor",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.animekhor",
+    "apk": "animekhor-extension.apk",
+    "lang": "zh",
+    "code": 8,
+    "version": "1.0.8",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Animekhor",
+        "id": "animekhor",
+        "baseUrl": "https://animekhor.org"
+      }
+    ]
+  },
+  {
+    "name": "Animenosub",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animenosub",
+    "apk": "animenosub-extension.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.0.7",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Animenosub",
+        "id": "animenosub",
+        "baseUrl": "https://animenosub.to"
+      }
+    ]
+  },
+  {
+    "name": "AnimePahe",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animepahe",
+    "apk": "animepahe-extension.apk",
+    "lang": "en",
+    "code": 16,
+    "version": "1.0.16",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AnimePahe",
+        "id": "animepahe",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Animesalt",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.animesalt",
+    "apk": "animesalt-extension.apk",
+    "lang": "hi",
+    "code": 5,
+    "version": "1.0.5",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Animesalt",
+        "id": "animesalt",
+        "baseUrl": "https://animesalt.ac"
+      }
+    ]
+  },
+  {
+    "name": "Animexin",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animexin",
+    "apk": "animexin-extension.apk",
+    "lang": "en",
+    "code": 9,
+    "version": "1.0.9",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Animexin",
+        "id": "animexin",
+        "baseUrl": "https://animexin.dev"
+      }
+    ]
+  },
+  {
+    "name": "Animez",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animez",
+    "apk": "animez-extension.apk",
+    "lang": "en",
+    "code": 10,
+    "version": "1.0.10",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Animez",
+        "id": "animez",
+        "baseUrl": "https://animeyy.com"
+      }
+    ]
+  },
+  {
+    "name": "AniWatch",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aniwatch",
+    "apk": "aniwatch-extension.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.0.2",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "AniWatch",
+        "id": "aniwatch",
+        "baseUrl": "https://aniwatchtv.to"
+      }
+    ]
+  },
+  {
+    "name": "Aniworld",
+    "pkg": "eu.kanade.tachiyomi.extension.de.aniworld",
+    "apk": "aniworld-extension.apk",
+    "lang": "de",
+    "code": 8,
+    "version": "1.0.8",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Aniworld",
+        "id": "aniworld",
+        "baseUrl": "https://aniworld.to"
+      }
+    ]
+  },
+  {
+    "name": "BanglaPlex",
+    "pkg": "eu.kanade.tachiyomi.extension.bn.banglaplex",
+    "apk": "banglaplex-extension.apk",
+    "lang": "bn",
+    "code": 3,
+    "version": "1.0.3",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "BanglaPlex",
+        "id": "banglaplex",
+        "baseUrl": "https://banglaplex.top"
+      }
+    ]
+  },
+  {
+    "name": "Cinemacity",
+    "pkg": "eu.kanade.tachiyomi.extension.en.cinemacity",
+    "apk": "cinemacity-extension.apk",
+    "lang": "en",
+    "code": 4,
+    "version": "1.0.4",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Cinemacity",
+        "id": "cinemacity",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Coflix",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.coflix",
+    "apk": "coflix-extension.apk",
+    "lang": "fr",
+    "code": 11,
+    "version": "1.0.11",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Coflix",
+        "id": "coflix",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Desicinemas",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.desicinemas",
+    "apk": "desicinemas-extension.apk",
+    "lang": "hi",
+    "code": 12,
+    "version": "1.0.12",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Desicinemas",
+        "id": "desicinemas",
+        "baseUrl": "https://desicinemas.to"
+      }
+    ]
+  },
+  {
+    "name": "Donghuastream",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.donghuastream",
+    "apk": "donghuastream-extension.apk",
+    "lang": "zh",
+    "code": 16,
+    "version": "1.0.16",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Donghuastream",
+        "id": "donghuastream",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "DoraBash",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.dorabash",
+    "apk": "dorabash-extension.apk",
+    "lang": "hi",
+    "code": 4,
+    "version": "1.0.4",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "DoraBash",
+        "id": "dorabash",
+        "baseUrl": "https://dorabash.in"
+      }
+    ]
+  },
+  {
+    "name": "DramaFull",
+    "pkg": "eu.kanade.tachiyomi.extension.en.dramafull",
+    "apk": "dramafull-extension.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.1",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "DramaFull",
+        "id": "dramafull",
+        "baseUrl": "https://dramafull.cc"
+      }
+    ]
+  },
+  {
+    "name": "DudeFilms",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.dudefilms",
+    "apk": "dudefilms-extension.apk",
+    "lang": "hi",
+    "code": 4,
+    "version": "1.0.4",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "DudeFilms",
+        "id": "dudefilms",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Fibwatch",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.fibwatch",
+    "apk": "fibwatch-extension.apk",
+    "lang": "hi",
+    "code": 3,
+    "version": "1.0.3",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Fibwatch",
+        "id": "fibwatch",
+        "baseUrl": "https://f.pondit.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Filmycab",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.filmycab",
+    "apk": "filmycab-extension.apk",
+    "lang": "hi",
+    "code": 7,
+    "version": "1.0.7",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Filmycab",
+        "id": "filmycab",
+        "baseUrl": "https://postimg.cc"
+      }
+    ]
+  },
+  {
+    "name": "Filmyfiy",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.filmyfiy",
+    "apk": "filmyfiy-extension.apk",
+    "lang": "hi",
+    "code": 4,
+    "version": "1.0.4",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Filmyfiy",
+        "id": "filmyfiy",
+        "baseUrl": "https://linkmake.in"
+      }
+    ]
+  },
+  {
+    "name": "Fivemovierulz",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.fivemovierulz",
+    "apk": "fivemovierulz-extension.apk",
+    "lang": "hi",
+    "code": 4,
+    "version": "1.0.4",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Fivemovierulz",
+        "id": "fivemovierulz",
+        "baseUrl": "https://ibb.co"
+      }
+    ]
+  },
+  {
+    "name": "FourKHDHub",
+    "pkg": "eu.kanade.tachiyomi.extension.en.fourkhdhub",
+    "apk": "fourkhdhub-extension.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.0.30",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "FourKHDHub",
+        "id": "fourkhdhub",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Funmovieslix",
+    "pkg": "eu.kanade.tachiyomi.extension.id.funmovieslix",
+    "apk": "funmovieslix-extension.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.0.5",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Funmovieslix",
+        "id": "funmovieslix",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Goojara",
+    "pkg": "eu.kanade.tachiyomi.extension.en.goojara",
+    "apk": "goojara-extension.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.1",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Goojara",
+        "id": "goojara",
+        "baseUrl": "https://goojara.to"
+      }
+    ]
+  },
+  {
+    "name": "HDhub4u",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.hdhub4u",
+    "apk": "hdhub4u-extension.apk",
+    "lang": "hi",
+    "code": 44,
+    "version": "1.0.44",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "HDhub4u",
+        "id": "hdhub4u",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "HiAnime",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hianime",
+    "apk": "hianime-extension.apk",
+    "lang": "en",
+    "code": 31,
+    "version": "1.0.31",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "HiAnime",
+        "id": "hianime",
+        "baseUrl": "https://hianime.to"
+      }
+    ]
+  },
+  {
+    "name": "Hindmoviez",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.hindmoviez",
+    "apk": "hindmoviez-extension.apk",
+    "lang": "hi",
+    "code": 7,
+    "version": "1.0.7",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Hindmoviez",
+        "id": "hindmoviez",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "IdlixProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.id.idlixprovider",
+    "apk": "idlixprovider-extension.apk",
+    "lang": "id",
+    "code": 3,
+    "version": "1.0.3",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "IdlixProvider",
+        "id": "idlixprovider",
+        "baseUrl": "http://idlixian.com"
+      }
+    ]
+  },
+  {
+    "name": "IPTVPlayer",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.iptvplayer",
+    "apk": "iptvplayer-extension.apk",
+    "lang": "hi",
+    "code": 6,
+    "version": "1.0.6",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "IPTVPlayer",
+        "id": "iptvplayer",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "IStreamFlare",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.istreamflare",
+    "apk": "istreamflare-extension.apk",
+    "lang": "hi",
+    "code": 3,
+    "version": "1.0.3",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "IStreamFlare",
+        "id": "istreamflare",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Jellyfin",
+    "pkg": "eu.kanade.tachiyomi.extension.en.jellyfin",
+    "apk": "jellyfin-extension.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.0.3",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Jellyfin",
+        "id": "jellyfin",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Kaido",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kaido",
+    "apk": "kaido-extension.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.0.2",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Kaido",
+        "id": "kaido",
+        "baseUrl": "https://kaido.to"
+      }
+    ]
+  },
+  {
+    "name": "KayiFamilyTv",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kayifamilytv",
+    "apk": "kayifamilytv-extension.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.1",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "KayiFamilyTv",
+        "id": "kayifamilytv",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Kickassanime",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kickassanime",
+    "apk": "kickassanime-extension.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.0.20",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Kickassanime",
+        "id": "kickassanime",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "KisskhProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kisskhprovider",
+    "apk": "kisskhprovider-extension.apk",
+    "lang": "en",
+    "code": 16,
+    "version": "1.0.16",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "KisskhProvider",
+        "id": "kisskhprovider",
+        "baseUrl": "https://kisskh.co"
+      }
+    ]
+  },
+  {
+    "name": "Latanime",
+    "pkg": "eu.kanade.tachiyomi.extension.mx.latanime",
+    "apk": "latanime-extension.apk",
+    "lang": "mx",
+    "code": 2,
+    "version": "1.0.2",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Latanime",
+        "id": "latanime",
+        "baseUrl": "https://latanime.org"
+      }
+    ]
+  },
+  {
+    "name": "LayarKacaProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.id.layarkacaprovider",
+    "apk": "layarkacaprovider-extension.apk",
+    "lang": "id",
+    "code": 6,
+    "version": "1.0.6",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "LayarKacaProvider",
+        "id": "layarkacaprovider",
+        "baseUrl": "https://tv7.lk21.am.in"
+      }
+    ]
+  },
+  {
+    "name": "MassTamilanProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.ta.masstamilanprovider",
+    "apk": "masstamilanprovider-extension.apk",
+    "lang": "ta",
+    "code": 6,
+    "version": "1.0.6",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "MassTamilanProvider",
+        "id": "masstamilanprovider",
+        "baseUrl": "https://github.com/LikDev-256/likdev256-tamil-providers"
+      }
+    ]
+  },
+  {
+    "name": "Megakino",
+    "pkg": "eu.kanade.tachiyomi.extension.de.megakino",
+    "apk": "megakino-extension.apk",
+    "lang": "de",
+    "code": 2,
+    "version": "1.0.2",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Megakino",
+        "id": "megakino",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "MovieBlast",
+    "pkg": "eu.kanade.tachiyomi.extension.te.movieblast",
+    "apk": "movieblast-extension.apk",
+    "lang": "te",
+    "code": 2,
+    "version": "1.0.2",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "MovieBlast",
+        "id": "movieblast",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "MovieBoxProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.movieboxprovider",
+    "apk": "movieboxprovider-extension.apk",
+    "lang": "hi",
+    "code": 17,
+    "version": "1.0.17",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "MovieBoxProvider",
+        "id": "movieboxprovider",
+        "baseUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension"
+      }
+    ]
+  },
+  {
+    "name": "Movierulzhd",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.movierulzhd",
+    "apk": "movierulzhd-extension.apk",
+    "lang": "hi",
+    "code": 153,
+    "version": "1.0.153",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Movierulzhd",
+        "id": "movierulzhd",
+        "baseUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
+      }
+    ]
+  },
+  {
+    "name": "Movies4u",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.movies4u",
+    "apk": "movies4u-extension.apk",
+    "lang": "hi",
+    "code": 1,
+    "version": "1.0.1",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "Movies4u",
+        "id": "movies4u",
+        "baseUrl": "https://piratexplay.cc"
+      }
+    ]
+  },
+  {
+    "name": "MPlayerProvider",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.mplayerprovider",
+    "apk": "mplayerprovider-extension.apk",
+    "lang": "hi",
+    "code": 6,
+    "version": "1.0.6",
+    "nsfw": 0,
+    "hasReadme": false,
+    "hasChangelog": false,
+    "sources": [
+      {
+        "name": "MPlayerProvider",
+        "id": "mplayerprovider",
+        "baseUrl": "https://www.mxplayer.in"
+      }
+    ]
+  }
 ]
+```
