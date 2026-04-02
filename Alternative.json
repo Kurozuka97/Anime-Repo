@@ -16,7 +16,7 @@
         "baseUrl": "https://shinden.pl"
       }
     ]
-  }
+  },
   {
     "name": "AllMovieLandProvider",
     "pkg": "eu.kanade.tachiyomi.extension.hi.allmovielandprovider",
@@ -918,4 +918,3 @@
     ]
   }
 ]
-```
